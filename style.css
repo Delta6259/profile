@@ -1,5 +1,5 @@
 body {
-  background-image:url(/home/guillaume/Images/2.jpg);
+  background-image:url(2.jpg);
   /*background-color: #CACECE;*/
   text-align: center;
   font-family: 'Oswald', sans-serif;
@@ -63,7 +63,7 @@ ul {
   left: 0;
   top: 0;
   bottom: 0;
-  background-image:url(/home/guillaume/Images/1.jpg);
+  background-image:url(1.jpg);
 }
 #page-content {
   margin-left: 150px;
